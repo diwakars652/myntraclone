@@ -1,3 +1,6 @@
+# Getting started with Create React App
+Click here to have a view of my project https://myntra-clone-diwa.netlify.app
+
 # Myntra clone Assignment
 
 Step 1: clone this repository
